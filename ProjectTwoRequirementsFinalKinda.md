@@ -31,7 +31,7 @@ __Thita Low__: Community Module
 __John Paul__: Users Module
 
 ## Description
-Word Bank is a full stack web forum similar to reddit that gamifies the act of communication with other people. A user can message to other users within a set of communities, except that each character they use in their messages is withdrew from their character bank within a thread. Each community will have threads. Users’ character bank are unique to each thread. A users’ character bank refills every time they are responded to. There is a max number of threads within a community. Any user will be able to create a thread as they wish but the oldest thread will be deleted as a result when exceeding the max number of threads.
+Relpy is a full stack web forum similar to reddit that gamifies the act of communication with other people. A user can message to other users within a set of communities, except that each character they use in their messages is withdrew from their character bank within a thread. Each community will have threads. Users’ character bank are unique to each thread. A users’ character bank refills every time they are responded to. There is a max number of threads within a community. Any user will be able to create a thread as they wish but the oldest thread will be deleted as a result when exceeding the max number of threads.
 
 ## Purpose
 Testing an interesting idea for a forum site that will allow users to experience a community that requires constant good communication.
